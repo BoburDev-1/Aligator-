@@ -40,7 +40,7 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
 
 # Kommentariya va javob kommentariya Ajax bilan
 
-<img src="https://github.com/BoburDev-1/Aligator-/blob/main/aligator_comment and comments answer.png" width="800">
+<img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_comment%20and%20comments%20answer.png" width="800">
 
 # Product blade view
   Slider product image and zoom product image, carusel image
