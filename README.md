@@ -51,5 +51,34 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
 <img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_product_blade.png" width="800">
 
 
-<img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_product_blade.png" width="800">
+# User Profile
+  upload and delete avatar with AJAX
+
+# Foydalanuvchi profile
+  bu yerda rasmni ajax orqali yuklaw va uchiriw
+
+<img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_profile delete upload avatar ajax.png" width="800">
+
+# Site Admin Panel
+  ## Creat, delete and update product
+  ## moderat comments and delete comments
+  ## Feedback 
+  ## Orders
+  ## and ...
+
+# Sayt Admin paneli
+  ## Tovarlarni quwiw
+  ## tovarlarni uciriw
+  ## Tovarlarni uzgartirish
+  ## commentariyalarni moderatsiya qiliw va uchiriw
+  ## Buyurtmalar bilan ishlash
+  ## Saytga kelib tuwgan fikrlar bilan taniwiw ( ## FEEDBACK )
+  ## va boshqalar ...
+
+
+
+<img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_admin_panel.png" width="800">
+ 
+
+
 
