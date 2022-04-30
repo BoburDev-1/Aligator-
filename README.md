@@ -60,6 +60,7 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
 <img src="https://github.com/BoburDev-1/Aligator-/blob/main/screenshot/aligator_profile delete upload avatar ajax.png" width="800">
 
 # Site Admin Panel
+  ## Delete ana edit , add Categories
   ## Creat, delete and update product
   ## moderat comments and delete comments
   ## Feedback 
@@ -67,6 +68,7 @@ foydalanuvchini ismi, email, telefon raqami, va buyurtmasini Bazaga saqkab olami
   ## and ...
 
 # Sayt Admin paneli
+  ## Categoriyalarni qushish, uchiriw, uzgartirish
   ## Tovarlarni quwiw
   ## tovarlarni uciriw
   ## Tovarlarni uzgartirish
